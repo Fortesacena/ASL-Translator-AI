@@ -6,16 +6,17 @@ This repository contains the code and resources for my bachelor thesis project, 
 🧠 Project Description
 The goal of this project is to build an intelligent system that can interpret sign language gestures and translate them into written text. The system is based on LSTM neural networks, which are effective for recognizing sequential patterns in gesture data.
 
-##Key Features
--Collection of gesture data from users
--Preprocessing (scaling, encoding, sequence padding)
--Model training with labeled gesture sequences
--Real-time or batch translation of gestures to text
--Evaluation with accuracy and confusion matrix
+Key Features
+
+- Collection of gesture data from users 
+- Model training with labeled gesture sequences  
+- Real-time or batch translation of gestures to text 
+- Evaluation with accuracy and confusion matrix  
 
 
 📊 Results
 The trained model can translate sign language gestures with good accuracy. Results are visualized using metrics such as accuracy and confusion matrices to show model performance across different signs.
+
 
 🛠 Technologies Used
 - Python  
